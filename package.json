@@ -1,0 +1,32 @@
+{
+  "name": "cuisine",
+  "version": "1.0.0",
+  "description": "The lean cookbook manager.",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norman Joyner <norman.joyner@gmail.com>",
+  "license": "GPLv2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/normanjoyner/cuisine.git"
+  },
+  "keywords": [
+    "cuisine",
+    "chef",
+    "cookbook",
+    "manager"
+  ],
+  "bugs": {
+    "url": "https://github.com/normanjoyner/cuisine/issues"
+  },
+  "homepage": "https://github.com/normanjoyner/cuisine",
+  "dependencies": {
+    "async": "^0.9.0",
+    "colors": "^0.6.2",
+    "gift": "^0.4.3-1",
+    "lodash": "^2.4.1",
+    "yargs": "^1.3.1"
+  }
+}
