@@ -1,7 +1,7 @@
 {
   "name": "cuisine",
-  "version": "1.0.0",
-  "description": "The lean cookbook manager.",
+  "version": "0.1.0",
+  "description": "A lean cookbook manager.",
   "main": "application.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
